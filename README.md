@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneswaran</h1>
-<h3 align="center">A tech enthusiast who love the AI/ML , elctronics and robotics</h3>
+<h3 align="center">A tech enthusiast who love the AI/ML , electronics and robotics</h3>
 
 - 👀 I’m interested in AI/ML , Linux , electronics ,  embedded systems .
 - 🔭 I’m currently working on **EVM for PSG collage**
