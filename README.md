@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vigneswaran</h1>
 <p align="center">
-  <img width="80%" src="https://github.com/user-attachments/assets/2d709e8b-8903-4617-a176-0aaba0c948b8"/>
+  <img width="60%" src="https://github.com/user-attachments/assets/2d709e8b-8903-4617-a176-0aaba0c948b8"/>
 </p>
 
 <h3 align="center">A tech enthusiast who love the AI/ML , electronics and robotics</h3>
