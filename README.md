@@ -10,7 +10,7 @@
 <p align="left">
   <a href="mailto:contactmevigneswaran@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30"/>
     <a href="https://www.linkedin.com/in/vigneswaran-s-3183a9288/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="30"/>
-     <a href="https://www.linkedin.com/in/vigneswaran-s-3183a9288/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  height="30"/>
+     <a href="https://wa.me/+919843314236" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  height="30"/>
      <a href="https://t.me/Vigneshwaran_techie" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
      <a href="https://discord.com/users/1189199521121579071" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
       
