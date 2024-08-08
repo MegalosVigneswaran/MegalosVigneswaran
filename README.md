@@ -32,8 +32,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" /> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" /> </a></a> 
 
-<h3 align="left">Tools and machineries:</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megalosvigneswaran&show_icons=true&locale=en&layout=compact&theme=dark" alt="megalosvigneswaran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megalosvigneswaran&show_icons=true&locale=en&theme=dark" alt="megalosvigneswaran" /></p>
