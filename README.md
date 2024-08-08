@@ -3,8 +3,6 @@
 <h3 align="center">A tech enthusiast who love the AI/ML , electronics and robotics</h3>
 
 - 👀 I’m interested in AI/ML , Linux , electronics ,  embedded systems .
-- 🔭 I’m currently working on **EVM for PSG collage**
-- 🌱 I’m currently learning **computer architecture**
 - 💬 Ask me about **AI/ML , arduino , esp , electronics**
 - 📫 How to reach me:
 <p align="left">
